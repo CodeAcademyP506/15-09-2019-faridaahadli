@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\bin\Debug\contactBook.exe.config
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\bin\Debug\contactBook.exe
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\bin\Debug\contactBook.pdb
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\obj\Debug\contactBook.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\obj\Debug\contactBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\obj\Debug\contactBook.exe
+C:\Users\HP\Desktop\New folder\contactBook\contactBook\obj\Debug\contactBook.pdb
